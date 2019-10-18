@@ -22,8 +22,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Creating our Application
   * Create the backend for the reminder App using Laravel
-	* Create endpoints for the backend app
-	*	Link endpoints to Whatsapp Twilio Sandbox
+	* Create webhooks for the backend app
+	* Link webhooks to Whatsapp Twilio Sandbox
 
 ## Testing our App
 
