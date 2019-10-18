@@ -14,7 +14,7 @@ What you need to follow the tutorial.
 - Composer globally installed
 ```
 
-## Create the backend for the reminder App using Laravel
+## Set up development environment for our reminder app 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 * Install Laravel
 * Install Twilio SDK for PHP
