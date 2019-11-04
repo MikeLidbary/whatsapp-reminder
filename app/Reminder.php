@@ -48,7 +48,7 @@ class Reminder extends Model
         $sid    = getenv('ACCOUNT_SID');
         $token  = getenv('TWILIO_TOKEN');
         $sandbox_number=getenv('WHATSAPP_SANDBOX_NUMBER');
-        $subscriber_number = "+254702558716";
+        $subscriber_number = "your phone number";
         $message = $this->todaysScripture(true);
 
         $twilio = new Client($sid, $token);
