@@ -1,4 +1,4 @@
-# Creating a daily reminder WhatsApp app for your subscribers 
+# Creating a WhatsApp reminder app for your subscribers 
 
 ## Introduction
 
